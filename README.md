@@ -1,2 +1,2 @@
-# CV
-Add First CV version
+First HTML Course - Udemy
+https://www.udemy.com/course/the-complete-web-development-bootcamp/
